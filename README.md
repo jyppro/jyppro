@@ -13,15 +13,15 @@
   <img src="https://img.shields.io/badge/Unreal Engine 5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </p>
-<br>
+
 ---
 ### 📑 Experiences
 | 일자    | 내용       | 비고  |
 | ------- | ----------------------------------------------------------------------------------- | ---------- |
 | 2025.08.08~10 | 스마일게이트 데브 커뮤니티 해커톤(Infinithon 2025)                                | [Infinithon 2025 참여 후기](https://jypgamepro.tistory.com/entry/%EC%8A%A4%EB%A7%88%EC%9D%BC%EA%B2%8C%EC%9D%B4%ED%8A%B8-%EB%8D%B0%EB%B8%8C-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%ED%95%B4%EC%BB%A4%ED%86%A4-Infinithon-2025-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0)  |
 | 2024.03~06 | 스마일게이트 UNSEEN 2기 | [수료 후기](https://jypgamepro.tistory.com/entry/%EC%8A%A4%EB%A7%88%EC%9D%BC%EA%B2%8C%EC%9D%B4%ED%8A%B8-UNSEEN-2%EA%B8%B0-%EC%88%98%EB%A3%8C-%ED%9B%84%EA%B8%B0)   | 
-| 2022.09~12 | 넥슨 MSW X SUPER HACKATHON 2022 |[수료 후기]([https://github.com/ico-d103/ico](https://jypgamepro.tistory.com/entry/MapleStory-Worlds-X-SUPER-HACKATHON-2022-%EC%88%98%EB%A3%8C-%ED%9B%84%EA%B8%B0))    | 
-<br>
+| 2022.09~12 | 넥슨 MSW X SUPER HACKATHON 2022 | [수료 후기](https://jypgamepro.tistory.com/entry/MapleStory-Worlds-X-SUPER-HACKATHON-2022-%EC%88%98%EB%A3%8C-%ED%9B%84%EA%B8%B0)    | 
+
 ---
 ### 💻 My project
 - [Attention](https://github.com/jyppro/Attention)(2025.08.08 ~ 2025.08.10)
