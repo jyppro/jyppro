@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=JaeYoung's%20Github&fontSize=45)
 
-**Who I am?** <h5>Game Client Programmer</h5>
-
+**Who I am?** 
+<h3>Game Client Programmer</h3>
 - E-mail : pjyjy610@gmail.com | qkrwodud1235@naver.com
 - tistory : https://jypgamepro.tistory.com
 
