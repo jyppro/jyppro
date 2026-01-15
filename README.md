@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=purple&height=150&section=header&text=Hi,%20I'm%20jihyeon&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi,%20I'm%20jihyeon&fontSize=45)
 
 **Who I am?**
 
@@ -14,9 +14,8 @@
 
 - 💻 My Tech Skills: <br />
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal Engine 5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </p>
