@@ -4,7 +4,7 @@
 
 - E-mail : pjyjy610@gmail.com | qkrwodud1235@naver.com
 - tistory : https://jypgamepro.tistory.com
-<br>
+
 ---
 - 💻 My Tech Skills: <br />
 <p align="center">
@@ -27,30 +27,30 @@
 - [Attention](https://github.com/jyppro/Attention)(2025.08.08 ~ 2025.08.10)
   - Unreal 5 | 개발 중 딴짓 방지 깜짝 퀴즈 플러그인
   - Infinithon 2025 프로젝트
-<br>
+
 - [PROJECT DS](https://github.com/jyppro/PROJECT-DS)(2025.06 ~ 2025.11)
   - Unreal 5 | 3인칭 멀티 액션 어드벤처 게임
   - 사이드 프로젝트 | 카툰 렌더링 쉐이더 개발
-<br>
+
 - [PROJECT : P](https://github.com/futurelabunseen/C-JaeyoungPark)(2024.03 ~ 2024.06)
   - Unreal 5 | 쿼터뷰 멀티 액션 게임
   - UNSEEN 2기 프로젝트
-<br> 
+
 - [Monster Killer](https://github.com/jyppro/Monster-Killer)(2024.03 ~ 2024.11)
   - Unity3D | 캐주얼 웹 게임
   - 4학년 졸업작품
   - 동양미래대학교 2024 스마트 프로젝트 경진대회 장려상 수상
-<br>
+
 - [Ikaria : Tainted Skies](https://github.com/shgmltn/UnityProJol)(2023.03 ~ 2023.11)
   - Unity3D | 어드벤처 게임
   - 3학년 졸업작품
   - 동양미래대학교 2023 스마트 SW 개발 경진대회 장려상 수상
-<br>
+
 - [Resistance vs Black wing](https://maplestoryworlds.nexon.com/ko/play/471453979a92413eacc30e8e5701ed51/)(2022.09 ~ 2022.12)
   - MapleStory Worlds | 실시간 팀 대전 전략 게임
   - MSW X SUPER HACKATHON 2022 프로젝트
   - MapleStory Worlds에 게임 출시
   - 가장 열정적으로 참여한 10인에게 주어지는 최다질문상 수상
-<br>
+
 ---
 마지막 수정일 : 2026. 01. 16
