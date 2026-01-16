@@ -60,21 +60,62 @@
 <br/>
 
 ---
-```mermaid
-gantt
-    title Project Timeline
-    dateFormat  YYYY-MM-DD
-    axisFormat  %Y.%m
-    section Unreal Engine
-    Attention (Infinithon)     :active, 2025-08-08, 3d
-    PROJECT DS (Side)          :2025-06-01, 2025-11-30
-    PROJECT : P (UNSEEN)       :2024-03-01, 2024-06-30
-    section Unity
-    Monster Killer (Grad)      :2024-03-01, 2024-11-30
-    Ikaria (Grad)              :2023-03-01, 2023-11-30
-    section MSW
-    Resistance vs Black wing   :2022-09-01, 2022-12-31
-```
+<table>
+  <thead>
+    <tr>
+      <th width="20%">Date</th>
+      <th width="15%">Tech</th>
+      <th width="65%">Project Info</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">2025.08</td>
+      <td align="center"><img src="https://img.shields.io/badge/UE5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/></td>
+      <td>
+        <b><a href="https://github.com/jyppro/Attention">Attention</a></b><br/>
+        - 개발 중 딴짓 방지 깜짝 퀴즈 플러그인<br/>
+        - Infinithon 2025 프로젝트
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2025.06 ~ 11</td>
+      <td align="center"><img src="https://img.shields.io/badge/UE5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/></td>
+      <td>
+        <b><a href="https://github.com/jyppro/PROJECT-DS">PROJECT DS</a></b><br/>
+        - 3인칭 멀티 액션 어드벤처 게임<br/>
+        - 카툰 렌더링 쉐이더 개발
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2024.03 ~ 06</td>
+      <td align="center"><img src="https://img.shields.io/badge/UE5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/></td>
+      <td>
+        <b><a href="https://github.com/futurelabunseen/C-JaeyoungPark">PROJECT : P</a></b><br/>
+        - 쿼터뷰 멀티 액션 게임<br/>
+        - UNSEEN 2기 프로젝트
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2024.03 ~ 11</td>
+      <td align="center"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></td>
+      <td>
+        <b><a href="https://github.com/jyppro/Monster-Killer">Monster Killer</a></b><br/>
+        - 캐주얼 웹 게임 / 4학년 졸업작품<br/>
+        - 2024 스마트 프로젝트 경진대회 장려상
+      </td>
+    </tr>
+     <tr>
+      <td align="center">2023.03 ~ 11</td>
+      <td align="center"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></td>
+      <td>
+        <b><a href="https://github.com/shgmltn/UnityProJol">Ikaria : Tainted Skies</a></b><br/>
+        - 어드벤처 게임 / 3학년 졸업작품<br/>
+        - 2023 스마트 SW 개발 경진대회 장려상
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 마지막 수정일 : 2026. 01. 16
