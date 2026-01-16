@@ -117,7 +117,7 @@
      <tr>
       <td align="center">2022.09 ~ 12</td>
       <td align="center">
-  <img src="https://img.shields.io/badge/NEXON-0C2846?style=flat-square&logo=nexon&logoColor=white"/><img src="https://img.shields.io/badge/MapleStory-0094D2?style=flat-square"/><img src="https://img.shields.io/badge/Worlds-BED600?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NEXON MSW-0C2846?style=flat-square&logo=nexon&logoColor=white"/>
 </td>
       <td>
         <b>Resistance vs Black wing</b><br/>
