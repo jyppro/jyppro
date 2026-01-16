@@ -96,6 +96,23 @@
         - 메이플스토리 월드에 출시 : <a href="https://maplestoryworlds.nexon.com/ko/play/471453979a92413eacc30e8e5701ed51/">게임 플레이 링크</a>
       </td>
     </tr>
+    <tr>
+      <td align="center">2022.05 ~06</td>
+      <td align="center"><img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black"/></td>
+      <td>
+        <b><a href="https://github.com/jyppro/Python-Game-Tr-ximo">Tréximo</a></b><br/>
+        - 파이썬 기말 프로젝트 / 2인용 2D 장애물 피하기 게임<br/>
+        - Pygame 모듈 사용 / A+ 학점 취득
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2021.09</td>
+      <td align="center"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></td>
+      <td>
+        <b><a href="https://github.com/jyppro/ParklappyBird_renewal">ParklappyBird</a></b><br/>
+        - 첫 게임 개발 프로젝트 / 플래피버드(Flappy Bird) 클론 게임<br/>
+      </td>
+    </tr>
   </tbody>
 </table>
 
