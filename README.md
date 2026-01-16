@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=JaeYoung's%20Github&fontSize=45)
 
 **Who I am?** 
-<h3>Game Client Programmer</h3>
+<h2>Game Client Programmer</h2>
 
 - E-mail : pjyjy610@gmail.com | qkrwodud1235@naver.com
 - tistory : https://jypgamepro.tistory.com
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal Engine 5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
 </p>
 
