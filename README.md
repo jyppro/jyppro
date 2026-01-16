@@ -116,7 +116,9 @@
     </tr>
      <tr>
       <td align="center">2022.09 ~ 12</td>
-      <td align="center"><img src="https://img.shields.io/badge/MSW-FC7E29?style=flat-square&logo=nexon&logoColor=white"/></td>
+      <td align="center">
+  <img src="https://img.shields.io/badge/NEXON-0C2846?style=flat-square&logo=nexon&logoColor=white"/><img src="https://img.shields.io/badge/MapleStory-0094D2?style=flat-square"/><img src="https://img.shields.io/badge/Worlds-BED600?style=flat-square"/>
+</td>
       <td>
         <b>Resistance vs Black wing</b><br/>
         - MapleStory Worlds | 실시간 팀 대전 전략 게임<br/>
