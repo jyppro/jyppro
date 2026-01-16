@@ -70,12 +70,12 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2025.08</td>
+      <td align="center">2025.08.08~10</td>
       <td align="center"><img src="https://img.shields.io/badge/UE5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/></td>
       <td>
         <b><a href="https://github.com/jyppro/Attention">Attention</a></b><br/>
-        - 개발 중 딴짓 방지 깜짝 퀴즈 플러그인<br/>
-        - Infinithon 2025 프로젝트
+        - Infinithon 2025 프로젝트<br/>
+        - 개발 중 딴짓 방지 깜짝 퀴즈 플러그인
       </td>
     </tr>
     <tr>
@@ -92,8 +92,8 @@
       <td align="center"><img src="https://img.shields.io/badge/UE5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/></td>
       <td>
         <b><a href="https://github.com/futurelabunseen/C-JaeyoungPark">PROJECT : P</a></b><br/>
-        - 쿼터뷰 멀티 액션 게임<br/>
-        - UNSEEN 2기 프로젝트
+        - UNSEEN 2기 프로젝트<br/>
+        - 쿼터뷰 멀티 액션 게임
       </td>
     </tr>
     <tr>
@@ -101,7 +101,7 @@
       <td align="center"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></td>
       <td>
         <b><a href="https://github.com/jyppro/Monster-Killer">Monster Killer</a></b><br/>
-        - 캐주얼 웹 게임 / 4학년 졸업작품<br/>
+        - 4학년 졸업작품 / 캐주얼 웹 게임<br/>
         - 2024 스마트 프로젝트 경진대회 장려상
       </td>
     </tr>
@@ -110,12 +110,23 @@
       <td align="center"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></td>
       <td>
         <b><a href="https://github.com/shgmltn/UnityProJol">Ikaria : Tainted Skies</a></b><br/>
-        - 어드벤처 게임 / 3학년 졸업작품<br/>
+        - 3학년 졸업작품 / 3D 어드벤처 게임<br/>
         - 2023 스마트 SW 개발 경진대회 장려상
+      </td>
+    </tr>
+     <tr>
+      <td align="center">2022.09 ~ 12</td>
+      <td align="center"><img src="https://img.shields.io/badge/MSW-FC7E29?style=flat-square&logo=nexon&logoColor=white"/></td>
+      <td>
+        <b>Resistance vs Black wing</b><br/>
+        - MapleStory Worlds | 실시간 팀 대전 전략 게임<br/>
+        - MSW X SUPER HACKATHON 2022 프로젝트<br/>
+        - <a href="https://maplestoryworlds.nexon.com/ko/play/471453979a92413eacc30e8e5701ed51/">게임 플레이 링크</a>
       </td>
     </tr>
   </tbody>
 </table>
+
 ---
 
 마지막 수정일 : 2026. 01. 16
