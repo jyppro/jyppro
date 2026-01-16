@@ -11,10 +11,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal Engine 5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal 5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black"/>
 </p>
 
 ---
