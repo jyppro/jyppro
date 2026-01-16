@@ -78,7 +78,7 @@
       <td align="center">2023.03 ~ 11</td>
       <td align="center"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></td>
       <td>
-        <b><a href="https://github.com/shgmltn/UnityProJol">Ikaria : Tainted Skies</a></b><br/>
+        <b><a href="https://github.com/jyppro/Ikaria-Tainted-Skies">Ikaria : Tainted Skies</a></b><br/>
         - 3학년 졸업작품 / 3D 어드벤처 게임<br/>
         - 동양미래대학교 2023 스마트 SW 개발 경진대회 장려상
       </td>
