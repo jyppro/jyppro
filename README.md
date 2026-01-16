@@ -90,10 +90,10 @@
 </td>
       <td>
         <b>Resistance vs Black wing</b><br/>
-        - 실시간 팀 대전 전략 게임<br/>
         - MSW X SUPER HACKATHON 2022 프로젝트<br/>
+        - 실시간 팀 대전 전략 게임<br/>
         - 최다질문상 수상<br/>
-        - <a href="https://maplestoryworlds.nexon.com/ko/play/471453979a92413eacc30e8e5701ed51/">게임 플레이 링크</a>
+        - 메이플스토리 월드에 출시 : <a href="https://maplestoryworlds.nexon.com/ko/play/471453979a92413eacc30e8e5701ed51/">게임 플레이 링크</a>
       </td>
     </tr>
   </tbody>
