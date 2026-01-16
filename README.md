@@ -60,4 +60,21 @@
 <br/>
 
 ---
+```mermaid
+gantt
+    title Project Timeline
+    dateFormat  YYYY-MM-DD
+    axisFormat  %Y.%m
+    section Unreal Engine
+    Attention (Infinithon)     :active, 2025-08-08, 3d
+    PROJECT DS (Side)          :2025-06-01, 2025-11-30
+    PROJECT : P (UNSEEN)       :2024-03-01, 2024-06-30
+    section Unity
+    Monster Killer (Grad)      :2024-03-01, 2024-11-30
+    Ikaria (Grad)              :2023-03-01, 2023-11-30
+    section MSW
+    Resistance vs Black wing   :2022-09-01, 2022-12-31
+```
+---
+
 마지막 수정일 : 2026. 01. 16
