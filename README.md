@@ -38,6 +38,15 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center">2026.03.10~진행 중...</td>
+      <td align="center"><img src="https://img.shields.io/badge/UE5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/></td>
+      <td>
+        <b><a href="https://github.com/jyppro/PROJECT-G">PROJECT-G</a></b><br/>
+        - 개인 프로젝트<br/>
+        - TPS 로그라이트 게임
+      </td>
+    </tr>
+    <tr>
       <td align="center">2025.08.08~10</td>
       <td align="center"><img src="https://img.shields.io/badge/UE5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/></td>
       <td>
